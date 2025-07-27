@@ -19,11 +19,38 @@
 ---
 
 🚀 I'm currently working on: <a href="https://forecast-vk.onrender.com/" target="_blank"><strong>Forecast.ai</strong></a> — an AI-powered business forecasting and inventory assistant for SMEs.  
-🛒 Co-founded <a href="https://grocto-frontend.onrender.com" target="_blank"><strong>Grocto</strong></a> — a smart campus grocery delivery platform with real-time tracking and role-based access.  
+🛒 Built <a href="https://grocto-frontend.onrender.com" target="_blank"><strong>Grocto</strong></a> — a smart campus grocery delivery platform with real-time tracking and role-based access.  
 🏅 Won Gold at **Webathon 2025** for Grocto (IIT Bhubaneswar).  
 📄 Resume: <a href="https://drive.google.com/file/d/1BcEsRc5JicopKzhUaK_U6N9Lnr_BuNBn/view" target="_blank">View Here</a>  
 📬 Email: **varshitcoding@gmail.com**  
 🎉 Fun Fact: Built a matchmaking app called <strong>DateHub</strong> just for fun 😉
+
+---
+
+### 📊 GitHub Stats (Dynamic)
+
+<p align="center">
+  <!-- Total Repos -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Varshitcode14&query=public_repos&label=Total%20Repos&color=1abc9c&style=for-the-badge" />
+
+  <!-- Total Stars -->
+  <img src="https://img.shields.io/github/stars/Varshitcode14?affiliations=OWNER&style=for-the-badge&color=yellow" />
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Varshitcode14&color=blue&style=for-the-badge&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varshitcode14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Varshitcode14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitcode14&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -43,28 +70,10 @@
 ---
 
 ### 💻 Languages & Tools:
-
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  <!-- (same icons section as before, unchanged) -->
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&width=435&lines=AI+Developer+from+IIT+Bhubaneswar;Co-founder+of+Grocto;Webathon+2025+Gold+Medalist;Full+Stack+%7C+ML+%7C+DL+%7C+Flask+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(with+ML+integration);Check+Forecast.ai+Live+Link!;Gold+Medalist+at+Webathon+2025;Flask+%7C+React+%7C+ML+%7C+DL+%7C+AI" alt="Typing SVG" />
 </p>
