@@ -8,8 +8,8 @@
   <a href="https://grocto-frontend.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Try-Grocto-orange?style=for-the-badge&logo=react" alt="Grocto" />
   </a>
-  <a href="mailto:varshitcoding@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-varshitcoding@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
+  <a href="mailto:kosuruvarshit@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-kosuruvarshit@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/kosuru-varshit-6498a2289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kosuru%20Varshit-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
