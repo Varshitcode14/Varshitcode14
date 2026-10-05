@@ -32,6 +32,28 @@ I enjoy building practical AI systems, backend services and full-stack applicati
 
 ---
 
+### GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Varshitcode14&query=public_repos&label=Total%20Repos&color=1abc9c&style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/stars/Varshitcode14?affiliations=OWNER&style=for-the-badge&color=yellow" />
+
+  <img src="https://komarev.com/ghpvc/?username=Varshitcode14&color=blue&style=for-the-badge&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varshitcode14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Varshitcode14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitcode14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 ### Projects
 
 **Forecast.ai — Demand Forecasting**
@@ -86,28 +108,6 @@ Smart campus grocery delivery platform with real-time tracking and role-based ac
 
 - Built a full-stack platform for campus grocery ordering and delivery.
 - **Live:** [Grocto](https://grocto-frontend.onrender.com)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Varshitcode14&query=public_repos&label=Total%20Repos&color=1abc9c&style=for-the-badge" />
-
-  <img src="https://img.shields.io/github/stars/Varshitcode14?affiliations=OWNER&style=for-the-badge&color=yellow" />
-
-  <img src="https://komarev.com/ghpvc/?username=Varshitcode14&color=blue&style=for-the-badge&label=Profile+Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varshitcode14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varshitcode14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitcode14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
